@@ -1,3 +1,5 @@
+package strings;
+
 //Problem: 1024 - String - Criptografia (https://www.urionlinejudge.com.br/judge/pt/problems/view/1024)
 
 import java.io.IOException;
@@ -45,7 +47,7 @@ import java.io.PrintWriter;
  * @author Bruno Maciel <brunom4ciel>
  * @version $Revision: 1 $
  */
-public class URI1024criptografia {
+public class URIJudgeProblem1024criptografia {
 	
 	static BufferedReader in = new BufferedReader(
 											new InputStreamReader(System.in));
